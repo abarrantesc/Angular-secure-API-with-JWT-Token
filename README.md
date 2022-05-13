@@ -2,6 +2,8 @@
 # WebAuth
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
+##Description
+Web Angular secure with JTW (Login, register, Roles, Guard page with roles)
 
 ## Install
 Run `npm install`
